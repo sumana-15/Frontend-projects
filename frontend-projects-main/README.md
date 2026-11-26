@@ -1,7 +1,6 @@
 # Frontend Projects 🌐
 
-[![GitHub contributors](https://img.shields.io/github/contributors/ArmanIdrisi/frontend-projects)](https://github.com/ArmanIdrisi/frontend-projects/graphs/contributors)
-[![GitHub last commit](https://img.shields.io/github/last-commit/ArmanIdrisi/frontend-projects)](https://github.com/ArmanIdrisi/frontend-projects/commits/main)
+
 
 This repository contains a collection of frontend projects.Each project is built using HTML, CSS, and JavaScript.
 
@@ -115,22 +114,6 @@ This repository contains a collection of frontend projects.Each project is built
     </tr>
 </table>
 
-
-
-## Notice ⚠️
-This repository is not actively maintained right now. I’m a student, so reviews and merges may take time.
-Feel free to open issues and submit pull requests—thank you for your patience!
-
-
-
-## Installation 🚀
-
-To run any of the projects locally, simply clone this repository using the following command:
-
-```bash
-git clone https://github.com/ArmanIdrisi/frontend-projects.git
-```
-
 ## Usage 💻
 
 Each project is contained in its own directory, and can be opened and run directly in a web browser.
@@ -139,6 +122,4 @@ Each project is contained in its own directory, and can be opened and run direct
 
 Contributions to this repository are welcome! If you have a project you'd like to add, simply create a new branch, add your project, and create a pull request.
 
-## License 📝
 
-This repository is licensed under the MIT license. See [LICENSE](/LICENSE) for more information.
